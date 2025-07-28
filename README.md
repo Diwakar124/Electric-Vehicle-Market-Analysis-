@@ -80,9 +80,5 @@ This project can be enhanced with:
 * Predictive modeling for dynamic pricing
 
 ##  License
-This project is open-source and available under the MIT License.
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Let me know if you want a sample folder structure or a link preview for hosting!
